@@ -1,0 +1,23 @@
+{
+  "name": "swetha-day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start":"node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwethaSudheesh/swetha-day3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwethaSudheesh/swetha-day3/issues"
+  },
+  "homepage": "https://github.com/SwethaSudheesh/swetha-day3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
